@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
+  },
+  "dependencies": {
+    "gulp-watch": "^5.0.0"
+  }
+}
